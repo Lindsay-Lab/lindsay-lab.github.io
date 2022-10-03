@@ -1,0 +1,58 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.feature {
+  @include flex-center;
+  margin: 40px 0;
+  @include trim-v-margins;
+
+  .feature_image {
+    width: $page * 0.4;
+    flex-shrink: 0;
+    // box-shadow: $shadow;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  &:nth-child(odd) {
+    .feature_image {
+      order: -1;
+      margin-right: 40px;
+    }
+  }
+
+  &:nth-child(even) {
+    .feature_image {
+      order: 1;
+      margin-left: 40px;
+    }
+  }
+
+  .feature_headline {
+    // color: $dark-accent;
+    font-family: $sans;
+    font-weight: $medium;
+    text-align: center;
+  }
+
+  @media (max-width: $tablet) {
+    flex-direction: column;
+
+    .feature_image {
+      order: unset !important;
+      width: unset !important;
+      margin: 0 !important;
+      margin-bottom: 20px !important;
+
+      .feature_text {
+        width: unset !important;
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<div class="feature">
+  <a 
+    {% if include.link %}href="{{ include.link | relative_url }}"{% endif %}
+    class="feature_image"
+  >
+    <img src="{{ include.image | relative_url }}" loading="lazy" />
+  </a>
+  <div class="feature_text">
+    {%- if include.headline -%}
+      <p class="feature_headline">{{ include.headline }}</p>
+    {%- endif -%}
+    {{ include.text | markdownify }}
+  </div>
+</div>

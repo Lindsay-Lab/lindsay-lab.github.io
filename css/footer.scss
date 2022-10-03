@@ -1,0 +1,38 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+footer {
+  padding: 40px;
+  color: $white;
+  background: $gray-800;
+  text-align: center;
+  box-shadow: $shadow;
+
+  & * {
+    font-family: $sans;
+  }
+
+  .footer_row {
+    @include flex-center;
+    flex-wrap: wrap;
+    margin: 20px 0;
+    @include trim-v-margins;
+
+    &:hover .link {
+      opacity: 0.25;
+    }
+
+    .link:hover {
+      opacity: 1;
+    }
+  }
+
+  a {
+    color: currentColor;
+    text-decoration: none;
+  }
+}

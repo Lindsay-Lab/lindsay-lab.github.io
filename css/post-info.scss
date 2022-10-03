@@ -1,0 +1,23 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.post_info {
+  margin: 20px 0;
+  @include trim-v-margins;
+  color: $gray-500;
+
+  & > span {
+    display: inline-block;
+    margin: 0 10px;
+    text-align: center;
+    white-space: nowrap;
+
+    #{$icon} {
+      margin-right: 0.75em;
+    }
+  }
+}

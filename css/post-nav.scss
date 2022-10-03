@@ -1,0 +1,34 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.post_nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  color: $gray-500;
+
+  & > * {
+    width: 45%;
+  }
+
+  & > *:first-child {
+    text-align: left;
+  }
+
+  & > *:last-child {
+    text-align: right;
+  }
+
+  @media (max-width: $phone) {
+    & > * {
+      width: 100%;
+      margin: 10px 0;
+      text-align: center !important;
+    }
+  }
+}

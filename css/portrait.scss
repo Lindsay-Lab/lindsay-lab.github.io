@@ -1,0 +1,63 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.portrait {
+  position: relative;
+  @include inline-flex-center;
+  flex-direction: column;
+  width: var(--width);
+  margin: calc(20 * var(--width) / 150);
+  text-align: center;
+  line-height: $spacing;
+  text-decoration: none;
+
+  .portrait_image {
+    display: inline-block;
+    width: var(--width);
+    height: var(--width);
+    border-radius: 999px;
+    overflow: hidden;
+    box-shadow: $shadow;
+
+    img {
+      object-fit: cover;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  .portrait_name,
+  .portrait_description {
+    font-family: $sans;
+    font-size: 0.9rem;
+  }
+
+  .portrait_name {
+    font-weight: $medium;
+  }
+
+  .portrait_image + span {
+    margin-top: 10px;
+  }
+
+  .role {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: calc(0.13 * var(--width));
+    top: calc(0.13 * var(--width));
+    margin: 0;
+    width: calc(0.25 * var(--width));
+    height: calc(0.25 * var(--width));
+    font-size: calc(16 * var(--width) / 150);
+    background: $white;
+    color: $gray-500;
+    border-radius: 999px;
+    transform: translate(-50%, -50%);
+  }
+}
