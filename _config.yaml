@@ -9,11 +9,11 @@ footer: images/background.jpg
 baseurl: ""
 
 # site social media and other links
-links:
-  email: grace.lindsay@nyu.edu
-  google-scholar: https://scholar.google.com/citations?user=4kETHY4AAAAJ&hl=en
-  github: https://github.com/Lindsay-Lab
-  twitter: @neurograce
+#links:
+#  email: grace.lindsay@nyu.edu
+#  google-scholar: https://scholar.google.com/citations?user=4kETHY4AAAAJ&hl=en
+#  github: https://github.com/Lindsay-Lab
+#  twitter: @neurograce
   #instagram: YourLabHandle
   #youtube: YourLabChannel
 
