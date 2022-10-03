@@ -26,7 +26,7 @@ The Lindsay Lab at New York University aims to 1.) advance the study of the brai
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/bannerNYU.png" %}
+{% include banner.html image="images/bannerNYU.svg" %}
 
 {% include section.html %}
 
