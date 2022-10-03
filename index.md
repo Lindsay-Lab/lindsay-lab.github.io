@@ -34,6 +34,7 @@ The Lindsay Lab at New York University aims to 1.) advance the study of the brai
 
 {% capture text %}
 Attention is widely studied across psychology, neuroscience, and machine learning. To what extent do these different forms of attention relate to each other? Can we use models of attention in artificial neural networks to understand how attention enhances behavior in people? What can the connection between attention and learning in biology tell us about how to make machines learn better?
+
 [Read "Attention in Psychology, Neuroscience, and Machine Learning"](https://www.frontiersin.org/articles/10.3389/fncom.2020.00029/full)
 <!--[See what we've published &nbsp;→](research)-->
 {:.center}
