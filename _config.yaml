@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Lindsay Lab
 description: Artificial neural networks applied to psychology, neuroscience, and climate change
-logo: images/logo_winner.jpg
+logo: images/logo.jpg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
