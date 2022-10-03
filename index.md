@@ -42,7 +42,7 @@ Attention is widely studied across psychology, neuroscience, and machine learnin
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo_attn.jpg"
   link="research"
   headline="Understanding Attention"
   text=text
@@ -57,7 +57,7 @@ Neuroscientists use a variety of analysis methods to try to identify the feature
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo_tools.jpg"
   link="resources"
   headline="Investigating the Tools of Neuroscience"
   text=text
@@ -72,7 +72,7 @@ Mitigating and adapting to climate change is the biggest challenge of our genera
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/photo_climate.jpg"
   link="team"
   headline="Computer Vision for Climate Change"
   text=text
