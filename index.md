@@ -2,12 +2,11 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Artificial neural networks for psychology, neuroscience, and climate change
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The Lindsay Lab at New York University aims to advance the study of the brain by using artificial neural networks as models of biological information processing and to advance the fight against climate change by using artificial neural networks to solve difficult computer vision problems.   
   
-{%
+<!-- {%
   include link.html
   type="github"
   icon=""
@@ -23,7 +22,7 @@ Spend less time reinventing the wheel, and more time running your lab.
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
 %}
-{:.center}
+{:.center} -->
 
 {% include section.html full=true %}
 
