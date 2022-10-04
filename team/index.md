@@ -52,9 +52,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {:.center}
 
 {% include section.html %}
--->
 
-<!--## Funding
+
+## Funding
 
 Our work is made possible by funding from several organizations.
 {:.center}
