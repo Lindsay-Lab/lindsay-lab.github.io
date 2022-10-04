@@ -24,7 +24,7 @@ The lab is affiliated with the [Department of Psychology](https://as.nyu.edu/dep
   icon=""
   text="gracewlindsay.com"
   tooltip=""
-  link="gracewlindsay.com"
+  link="https://www.gracewlindsay.com"
   style="button"
 %}
 {%
