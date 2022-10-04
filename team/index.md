@@ -7,10 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Lindsay Lab is new! If you are interested in joining as a PhD student, please apply to either the [Center for Data Science PhD program](https://cds.nyu.edu/phd-admissions-req/) or the [Cognition and Perception PhD program in Psychology](https://as.nyu.edu/psychology/graduate/phd-cognition-perception.html). Potential postdocs or NYU Masters students interested in doing work in the lab can reach out to Grace directly. We are not accepting undergraduates or research assistants at this time. 
 
 {% include section.html %}
 
@@ -34,7 +31,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+<!--{% include section.html background="images/banner.jpg" dark=true%}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -48,9 +45,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 %}
 {:.center}
 
-{% include section.html %}
+{% include section.html %} -->
 
-## Funding
+<!--## Funding
 
 Our work is made possible by funding from several organizations.
 {:.center}
@@ -83,3 +80,4 @@ Our work is made possible by funding from several organizations.
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
 %}
+-->
