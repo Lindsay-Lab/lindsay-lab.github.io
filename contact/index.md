@@ -2,12 +2,12 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Email, links, and location
 ---
 
 # <i class="fas fa-envelope"></i>Contact
 
-The lab is affiliated with the [Department of Psychology]() and the [Center for Data Science]() at [New York University]() and a part of the [Minds, Brains, Machines Initiative](). We are located on the 13th floor of the [Center for Wit and Sagacity]().
+The lab is affiliated with the [Department of Psychology](https://as.nyu.edu/departments/psychology.html) and the [Center for Data Science](https://cds.nyu.edu/) at [New York University](https://www.nyu.edu/) and a part of the [Minds, Brains, Machines Initiative](https://mbm.cds.nyu.edu/#landingPage). 
 
 {%
   include link.html
@@ -20,7 +20,7 @@ The lab is affiliated with the [Department of Psychology]() and the [Center for 
 %}
 {%
   include link.html
-  type="email"
+  type="home-page"
   icon=""
   text="gracewlindsay.com"
   tooltip=""
