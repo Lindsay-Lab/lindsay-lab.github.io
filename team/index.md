@@ -88,5 +88,4 @@ Our work is made possible by funding from several organizations.
   image6="images/photo.jpg"
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
-%}
--->
+%}-->
