@@ -31,7 +31,7 @@ The lab is affiliated with the [Department of Psychology](https://as.nyu.edu/dep
   include link.html
   type="address"
   icon=""
-  text="Google Maps"
+  text="CDS Office
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps/place/NYU+Center+for+Data+Science/@40.735016,-73.994802,15z/data=!4m2!3m1!1s0x0:0x5dd8af15d9fbc8a3?sa=X&ved=2ahUKEwi21K7nw8f6AhW4D1kFHdGaCa4Q_BJ6BAhnEAg"
   style="button"
