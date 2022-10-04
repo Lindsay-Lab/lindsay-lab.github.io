@@ -20,7 +20,7 @@ The lab is affiliated with the [Department of Psychology]() and the [Center for 
 %}
 {%
   include link.html
-  type="website"
+  type="email"
   icon=""
   text="gracewlindsay.com"
   tooltip=""
