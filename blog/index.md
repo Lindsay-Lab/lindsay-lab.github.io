@@ -19,5 +19,5 @@ nav:
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="600" data-height="400" href="https://twitter.com/neurograce?ref_src=twsrc%5Etfw">Tweets by Grace Lindsay</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="800" data-height="400" href="https://twitter.com/neurograce?ref_src=twsrc%5Etfw">Tweets by Grace Lindsay</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
