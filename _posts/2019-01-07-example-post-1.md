@@ -8,6 +8,4 @@ author: Grace Lindsay
 member: grace-lindsay
 ---
 
-# Hello World
-
-More later!
+# HMore later!
