@@ -1,18 +1,18 @@
 ---
 title: Tools
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 3
+  tooltip: Code and resources
 ---
 
 # <i class="fas fa-tools"></i>Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our code&mdash;including the code for this website&mdash;is hosted on our [lab Github](https://github.com/Lindsay-Lab).
 
-{% include search-info.html %}
+## Resources
+Check back here for resources on PhD programs, ML for climate change, careers in science, etc. 
+
+<!--{% include search-info.html %}
 
 {% include section.html %}
 
@@ -24,4 +24,4 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="card" data="tools" filters="group: more" style="small" %}-->
