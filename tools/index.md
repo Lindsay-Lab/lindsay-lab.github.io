@@ -11,6 +11,8 @@ Our code&mdash;including the code for this website&mdash;is hosted on our [lab G
 {:.center}
 
 ## Resources
+Website art was created with using [Craiyon](https://www.craiyon.com/).
+
 Check back here for resources on PhD programs, ML for climate change, careers in science, etc. 
 {:.center}
 
