@@ -48,7 +48,7 @@ Attention is widely studied across psychology, neuroscience, and machine learnin
 %}
 
 {% capture text %}
-Neuroscientists use a variety of analysis methods to try to identify the features of neural activity that drive behavior. Are these tools capable of providing such insights? Artificial neural networks offer an idealized testing ground for the tools of neuroscience as they allow for full access to the neural activity responsible for behavior.   
+Neuroscientists use a variety of analysis methods to try to identify the features of neural activity that drive behavior. Are these tools capable of providing such insights? Artificial neural networks offer an ideal testing ground for the tools of neuroscience as they allow for full access to the neural activity responsible for behavior.   
 
 [Read "Testing the Tools of Systems Neuroscience on Artificial Neural Networks"](https://arxiv.org/abs/2202.07035)
 {:.center}
