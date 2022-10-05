@@ -26,7 +26,7 @@ The Lindsay Lab at New York University has two goals: 1.) advance the study of t
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/bannerNYU.svg" %}
+{% include banner.html image="images/bannerNYU2.svg" %}
 
 {% include section.html %}
 
