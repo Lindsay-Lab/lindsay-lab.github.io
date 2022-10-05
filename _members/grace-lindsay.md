@@ -5,6 +5,6 @@ description: P.I.
 role: pi
 links:
   email: grace.lindsay@nyu.edu
-  home-page: gracewlindsay.com
+  home-page: https://www.gracewlindsay.com
 ---
 
