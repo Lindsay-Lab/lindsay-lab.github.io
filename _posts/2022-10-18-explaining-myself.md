@@ -1,5 +1,5 @@
 ---
-title: Explaining Myself
+title: Explaining Myself: Why the lab works on climate
 tags:
   - climate
   - research
