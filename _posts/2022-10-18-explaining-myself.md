@@ -8,14 +8,18 @@ author: Grace Lindsay
 member: grace-lindsay
 ---
 
-{% include banner.html image="images/explainingbanner.png" %}
-
+{%
+  include figure.html
+  image="images/explainingbanner.png"
+  caption="Alternative lab logo attempts"
+  width="800px"
+%}
 
 ## "Artificial neural networks for psychology, neuroscience, and climate change"
 
 That's the tagline on the front page of this website. You may notice that one of those things is not like the others. In this inaugural lab blog post, I'm going to explain why.
 
-At some point during the pandemic, I got really into reading about climate change. It may have been because I had my first kid, though that didn't feel like the conscious reason. It may have been because Biden got elected and a lot of my other fears washed a way a bit to reveal this one big one. Or maybe it was just a desire to distract myself from one global disaster by focusing on another. While I'd of course course had climate change on the backburner of my mind for many years (simmering away as the planet was...), at some point in early 2021, figuring out [just how bad things were going to be](https://grist.org/science/time-is-running-out-to-adapt-to-climate-change-new-ipcc-report-says/) became a priority.
+At some point during the pandemic, I got really into reading about climate change. It may have been because I had my first kid, though that didn't feel like the conscious reason. It may have been because Biden got elected and a lot of my other fears washed a way a bit to reveal this one big one. Or maybe it was just a desire to distract myself from one global disaster by focusing on another. Whatever the reason, while I'd had climate change on the backburner of my mind for many years (simmering away as the planet was...), at some point in early 2021, figuring out [just how bad things were going to be](https://grist.org/science/time-is-running-out-to-adapt-to-climate-change-new-ipcc-report-says/) became a priority.
 
 And it was devasting and paralyzing.  
 
