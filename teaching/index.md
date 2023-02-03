@@ -5,9 +5,11 @@ nav:
   tooltip: Course Materials
 ---
 
-# <i class="fas fa-tools"></i>Courses
+# <i class="fas fa-tools"></i>Teaching
 
 I teach courses for undergraduate and graduate students in both the Center for Data Science and the Psychology Department.
+
+# Courses
 
 ## Machine Learning for Climate Change (Ongoing)
 The current course syllabus is [here](https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/main/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-2.pdf).
