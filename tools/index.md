@@ -1,7 +1,7 @@
 ---
 title: Tools
 nav:
-  order: 3
+  order: 4
   tooltip: Code and resources
 ---
 
