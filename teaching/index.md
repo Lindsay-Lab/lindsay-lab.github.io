@@ -12,16 +12,16 @@ I teach courses for undergraduate and graduate students in both the Center for D
 # Courses
 
 ## Machine Learning for Climate Change (Ongoing)
-The current course syllabus is [here](https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/main/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-2.pdf).
+The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-2.pdf).
 
 ### Lecture Slides and Materials
-[Course Overview/Introduction to Climate Science](https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/main/ClimateML_Lectures/Intro_Climate%20Science.pdf)
+[Course Overview/Introduction to Climate Science](https://lindsay-lab.github.io/ClimateML_Lectures/Intro_Climate%20Science.pdf)
 
-[The Problem of Climate Change](https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/main/ClimateML_Lectures/Climate%20Change.pdf)
+[The Problem of Climate Change](https://lindsay-lab.github.io/ClimateML_Lectures/Climate%20Change.pdf)
 
-[Energy Efficiency - Buildings and Cities](https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/main/ClimateML_Lectures/3%20-%20Energy%20Efficiency%20-%20Buildings.pdf)
+[Energy Efficiency - Buildings and Cities](https://lindsay-lab.github.io/ClimateML_Lectures/3%20-%20Energy%20Efficiency%20-%20Buildings.pdf)
 
-[Energy Efficiency - Supply and Demand](https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/main/ClimateML_Lectures/4%20-Energy%20Efficiency%20-%20Supply%20and%20Demand.pdf)
+[Energy Efficiency - Supply and Demand](https://lindsay-lab.github.io/ClimateML_Lectures/4%20-Energy%20Efficiency%20-%20Supply%20and%20Demand.pdf)
 
 <!--{% include search-info.html %}
 
