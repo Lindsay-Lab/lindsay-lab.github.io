@@ -23,6 +23,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Energy Efficiency - Supply and Demand](https://lindsay-lab.github.io/ClimateML_Lectures/4%20-Energy%20Efficiency%20-%20Supply%20and%20Demand.pdf)
 
+[Tracking GHG Emissions - Estimation Methods] (https://Lindsay-Lab/lindsay-lab.github.io/ClimateML_Lectures/Tracking%20greenhouse%20gas%20emissions%20-%20Estimation%20and%20Measurement.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
