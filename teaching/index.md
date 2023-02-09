@@ -25,6 +25,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Tracking GHG Emissions - Estimation Methods](https://lindsay-lab.github.io/ClimateML_Lectures/Tracking%20greenhouse%20gas%20emissions%20-%20Estimation%20and%20Measurement.pdf)
 
+[Tracking GHG Emissions - Transportation](https://lindsay-lab.github.io/ClimateML_Lectures/Estimating%20and%20Controlling%20Transportation%20Emissions.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
