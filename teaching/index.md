@@ -27,6 +27,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Tracking GHG Emissions - Transportation](https://lindsay-lab.github.io/ClimateML_Lectures/Estimating%20and%20Controlling%20Transportation%20Emissions.pdf)
 
+[Food and Agriculture - Problems and Opportunities in Agriculture] - https://lindsay-lab.github.io/ClimateML_Lectures/Food%20and%20Agriculture%20Emissions.pdf
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
