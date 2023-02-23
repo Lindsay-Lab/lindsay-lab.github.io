@@ -31,6 +31,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Food and Agriculture - Food Packaging and Waste](https://lindsay-lab.github.io/ClimateML_Lectures/Food%20production%20and%20waste.pdf)
 
+[Alternative Energy - Renewables](https://lindsay-lab.github.io/ClimateML_Lectures/Alternative%20Energy%20Sources.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
