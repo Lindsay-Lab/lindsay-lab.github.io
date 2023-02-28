@@ -33,6 +33,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Alternative Energy - Renewables](https://lindsay-lab.github.io/ClimateML_Lectures/Alternative%20Energy%20Sources.pdf)
 
+[Carbon Dioxide Removal - Biological and Chemical](https://lindsay-lab.github.io/ClimateML_Lectures/Carbon%20dioxide%20removal.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
