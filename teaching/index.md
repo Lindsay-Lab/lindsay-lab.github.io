@@ -37,6 +37,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Midterm Review](https://lindsay-lab.github.io/ClimateML_Lectures/Midterm%20Review.pdf)
 
+[Project Instructions](https://lindsay-lab.github.io/ClimateML_Lectures/Project%20Instructions.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
