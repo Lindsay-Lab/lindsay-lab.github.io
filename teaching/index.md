@@ -39,7 +39,7 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Project Instructions](https://lindsay-lab.github.io/ClimateML_Lectures/Project%20Instructions.pdf)
 
-[Influencing People/Climate Communication] (https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/main/ClimateML_Lectures/Influencing%20people.pdf)
+[Influencing People/Climate Communication](https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/main/ClimateML_Lectures/Influencing%20people.pdf)
 
 <!--{% include search-info.html %}
 
