@@ -43,6 +43,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Climate Finance](https://lindsay-lab.github.io/ClimateML_Lectures/Climate%20Finance.pdf)
 
+[Career Day](https://lindsay-lab.github.io/ClimateML_Lectures/Career%20Day.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
