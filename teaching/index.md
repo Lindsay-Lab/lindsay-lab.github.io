@@ -45,6 +45,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Career Day](https://lindsay-lab.github.io/ClimateML_Lectures/Career%20Day.pdf)
 
+[Disaster Response](https://lindsay-lab.github.io/ClimateML_Lectures/Disaster%20Response.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
