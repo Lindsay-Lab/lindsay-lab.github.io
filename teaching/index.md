@@ -47,6 +47,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Disaster Response](https://lindsay-lab.github.io/ClimateML_Lectures/Disaster%20Response.pdf)
 
+[Health Impacts](https://lindsay-lab.github.io/ClimateML_Lectures/Health%20Impacts.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
