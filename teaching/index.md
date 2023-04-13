@@ -49,6 +49,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Health Impacts](https://lindsay-lab.github.io/ClimateML_Lectures/Health%20Impacts.pdf)
 
+[Extreme Weather Prediction](https://lindsay-lab.github.io/ClimateML_Lectures/Extreme%20Weather%20Event%20Prediction.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
