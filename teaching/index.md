@@ -51,6 +51,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Extreme Weather Prediction](https://lindsay-lab.github.io/ClimateML_Lectures/Extreme%20Weather%20Event%20Prediction.pdf)
 
+[Predicting Food Shortages](https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/main/ClimateML_Lectures/Predicting%20food%20shortages.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
