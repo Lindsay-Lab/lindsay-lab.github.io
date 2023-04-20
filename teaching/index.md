@@ -53,6 +53,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Predicting Food Shortages](https://lindsay-lab.github.io/ClimateML_Lectures/Predicting%20food%20shortages.pdf)
 
+[Automated Farming](https://lindsay-lab.github.io/ClimateML_Lectures/Automated%20Farming.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
