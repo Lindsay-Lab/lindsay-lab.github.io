@@ -55,6 +55,8 @@ The current course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Le
 
 [Automated Farming](https://lindsay-lab.github.io/ClimateML_Lectures/Automated%20Farming.pdf)
 
+[Climate Migration](https://lindsay-lab.github.io/ClimateML_Lectures/Climate%20Migration.pdf)
+
 <!--{% include search-info.html %}
 
 {% include section.html %}
