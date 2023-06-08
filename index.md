@@ -4,7 +4,7 @@ title: Home
 
 # Artificial neural networks for psychology, neuroscience, and climate change
 
-The Lindsay Lab at New York University has two goals: 1.) advance the study of the brain by using artificial neural networks as models of biological information processing and 2.) advance the fight against climate change by using artificial neural networks to solve difficult computer vision problems. 
+The Lindsay Lab at New York University has two separate goals: 1.) advance the study of the brain by using artificial neural networks as models of biological information processing and 2.) advance the fight against climate change by applying data science, machine learning, artificial neural netwroks, and computer vision to real-world problems. 
   
 <!-- {%
   include link.html
@@ -62,15 +62,15 @@ Neuroscientists use a variety of analysis methods to try to identify the feature
 %}
 
 {% capture text %}
-Mitigating and adapting to climate change is the biggest challenge of our generation. Progress in many areas can be expedited through the use of artificial intelligence. The Lindsay Lab is particularly focused on how computer vision can be applied in this domain.
+Mitigating and adapting to climate change is the biggest challenge of our generation. Progress in many areas can be expedited through the use of artificial intelligence. The Lindsay Lab is particularly focused on analysis of remote sensing data.
 
-[See some of the challenges being tackled by Earthshot Institute](https://www.earthshot.institute/x)
+[Learn more about why the lab works on climate change](https://lindsay-lab.github.io/2022/10/18/explaining-myself.html)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo_climate.jpg"
-  headline="Computer Vision for Climate Change"
+  headline="Machine Learning for Climate Change"
   text=text
 %}
