@@ -41,3 +41,19 @@ The brain is an evolved high-dimensional, nonlinear, hierarchical, and recurrent
   headline="Understanding neural systems"
   text=text
 %}
+
+
+{% capture text %}
+To mitigate and adapt to climate change requires solving thousands of problems spread across all sectors of society. Machine learning and data science have a role to play in many of these problems. The Lindsay Lab partners with organizations and researchers to assist with applied climate work. At this time, most of this work centers around the analysis of remote sensing data, particularly aerial and satellite imagery. Grace is currently working, for example, with the non-profit Collaborative Earth as the lead of the Beaver Lab, which studies the positive enviornmental impacts of beavers in river ecosystems.
+
+[**Learn more**: Beaver Lab at Collaborative Earth](https://www.collaborative.earth/lab-beaver)
+<!--[See what we've published &nbsp;→](research)-->
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/Northern_California_satellite_photo_square.jpg"
+  headline="Applying data science and machine learning to climate change"
+  text=text
+%}
