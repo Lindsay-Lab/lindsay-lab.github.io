@@ -11,9 +11,10 @@ Our code&mdash;including the code for this website&mdash;is hosted on our [lab G
 {:.center}
 
 ## Resources
-Website art was created using [Craiyon](https://www.craiyon.com/).
 
-Check back here for resources on PhD programs, ML for climate change, careers in science, etc. 
+["So you're an academic who wants to help with the climate crisis?"](https://gracewlindsay.com/2023/08/04/so-youre-an-academic-who-wants-to-help-with-the-climate-crisis/) - A blog post with advice and resources by Grace 
+
+Website art was created using [Craiyon](https://www.craiyon.com/).
 
 <!--{% include search-info.html %}
 
