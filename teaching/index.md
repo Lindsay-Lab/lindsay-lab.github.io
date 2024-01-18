@@ -11,6 +11,10 @@ I teach courses for undergraduate and graduate students in both the Center for D
 
 # Courses
 
+## Machine Learning for Climate Change (Spring 2024)
+The course has been redesigned to focus more on research papers. Materials will be posted as the course progresses.
+
+
 ## Machine Learning for Climate Change (Spring 2023)
 The course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-3.pdf).
 ### Lecture Slides and Materials
