@@ -19,8 +19,7 @@ The course has been redesigned to focus more on research papers. Materials will 
 
 
 ## Machine Learning for Climate Change (Spring 2023)
-The course syllabus is [here](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-3.pdf).
-### Lecture Slides and Materials
+[Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-3.pdf).
 [Course Overview/Introduction to Climate Science](https://lindsay-lab.github.io/ClimateML_Lectures/Intro_Climate%20Science.pdf) | 
 [The Problem of Climate Change](https://lindsay-lab.github.io/ClimateML_Lectures/Climate%20Change.pdf) | 
 [Energy Efficiency - Buildings and Cities](https://lindsay-lab.github.io/ClimateML_Lectures/3%20-%20Energy%20Efficiency%20-%20Buildings.pdf) | 
