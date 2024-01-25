@@ -10,9 +10,11 @@ nav:
 I teach courses for undergraduate and graduate students in both the Center for Data Science and the Psychology Department.
 
 # Courses
-
+https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/main/ClimateML_Lectures/ML%20for%20Climate%20Syllabus%20Spring%2024-2.pdf
 ## Machine Learning for Climate Change (Spring 2024)
 The course has been redesigned to focus more on research papers. Materials will be posted as the course progresses.
+[Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus%20Spring%2024-2.pdf)
+[Lecture 1 - Intro - Climate Change - Building Energy Use - Regression](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%201%20-%20Intro%20%2B%20Energy%20%2B%20Regression.pdf)
 
 
 ## Machine Learning for Climate Change (Spring 2023)
