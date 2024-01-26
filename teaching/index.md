@@ -7,9 +7,9 @@ nav:
 
 # <i class="fas fa-tools"></i>Teaching
 
-I teach courses for undergraduate and graduate students in both the Center for Data Science and the Psychology Department.
+I teach Data Literacy for Psychology (PSYCH-UA 8) in the Fall and Machine Learning for Climate Change (DS-UA 301) in the Spring. 
 
-# Courses
+# Course Materials
 ## Machine Learning for Climate Change (Spring 2024)
 The course has been redesigned to focus more on research papers. Materials will be posted as the course progresses.
 
