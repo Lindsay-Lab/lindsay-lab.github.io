@@ -12,9 +12,9 @@ nav:
   image="favicons/share-thumbnail.jpg"
   link="team"
   title=""
-  text="See current and past Lindsay Lab members below. If you are interested in joining as a PhD student, please apply to either the [Center for Data Science PhD program](https://cds.nyu.edu/phd-admissions-req/) or the [Cognition and Perception PhD program in Psychology](https://as.nyu.edu/psychology/graduate/phd-cognition-perception.html). Potential postdocs or NYU Masters students interested in doing work in the lab can reach out to Grace directly. The lab is not accepting undergraduates or research assistants at this time. 
-  
-**Update**: The Lab is hiring a postdoc. If you'd like to work on a research project that fits into either of the first two research described areas [here](https://lindsay-lab.github.io/research/) then send a CV, half page project proposal & contact info for 3 references to grace.lindsay@nyu.edu with subject 'Postdoc Application' " 
+  text="The Lindsay Lab started in Fall of 2022. See current and past lab members below. If you are interested in joining as a PhD student, please apply to either the [Center for Data Science PhD program](https://cds.nyu.edu/phd-admissions-req/) or the [Cognition and Perception PhD program in Psychology](https://as.nyu.edu/psychology/graduate/phd-cognition-perception.html). Potential postdocs or NYU Masters students interested in doing work in the lab can reach out to Grace directly. The lab is not accepting undergraduates or research assistants at this time. 
+
+[//]: # (**Update**: The Lab is hiring a postdoc. If you'd like to work on a research project that fits into either of the first two research described areas [here](https://lindsay-lab.github.io/research/) then send a CV, half page project proposal & contact info for 3 references to grace.lindsay@nyu.edu with subject 'Postdoc Application' " )
 
 %}
 
