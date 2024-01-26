@@ -35,10 +35,9 @@ nav:
   component="portrait"
   filters="role: masters"
 %}
-{%
-  include feature.html
-  title="Lab Alumni" 
-%}
+
+# Lab Alumni
+
 {%
   include list.html
   data="members"
