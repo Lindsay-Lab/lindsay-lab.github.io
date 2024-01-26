@@ -37,7 +37,10 @@ nav:
   filters="role: masters"
 %}
 
-##Lab Alumni
+{%
+  include feature.html
+  title="Lab Alumni" 
+%}
 
 {%
   include list.html
