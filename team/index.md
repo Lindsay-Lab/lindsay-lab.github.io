@@ -36,6 +36,9 @@ nav:
   component="portrait"
   filters="role: masters"
 %}
+
+##Lab Alumni
+
 {%
   include list.html
   data="members"
