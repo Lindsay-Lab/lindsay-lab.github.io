@@ -17,7 +17,7 @@ The course has been redesigned to focus more on research papers. Materials will 
 
 [Lecture 1 - Intro - Climate Change - Building Energy Use - Regression](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%201%20-%20Intro%20%2B%20Energy%20%2B%20Regression.pdf)
 
-[Lecture 2 - Paper 1 + Extreme Weather + Comp Vision](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%202%20-%20Paper%201%20%2B%20Extreme%20Weather%20%2B%20Comp%20Vision.pdf)
+[Lecture 2 - Paper 1 + Extreme Weather + Comp Vision + ANNs](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%202%20-%20Paper%201%20%2B%20Extreme%20Weather%20%2B%20Comp%20Vision.pdf)
 
 
 ## Machine Learning for Climate Change (Spring 2023)
