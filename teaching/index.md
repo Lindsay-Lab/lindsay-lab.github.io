@@ -19,6 +19,8 @@ The course has been redesigned to focus more on research papers. Materials will 
 
 [Lecture 2 - Paper 1 + Extreme Weather/Disaster + Comp Vision + ANNs](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%202%20-%20Paper%201%20%2B%20Extreme%20Weather%20%2B%20Comp%20Vision.pdf)
 
+[Lecture 3 - Paper 2 + Ocean Impacts + CNNs + Segmentation] (https://github.com/lindsay-lab.github.io/ClimateML_Lectures/Lecture%203%20-%20Paper%202%20%2B%20Ocean%20Impacts%20%2B%20CNN_Segmentation.pdf)
+
 
 ## Machine Learning for Climate Change (Spring 2023)
 [Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-3.pdf).
