@@ -15,7 +15,7 @@ undergrad:
   text: Undergraduate Student
 
 masters:
-  icon: fas fa-user-book
+  icon: fas fa-book
   text: Masters Student
 
 programmer:
