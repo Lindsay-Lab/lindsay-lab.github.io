@@ -14,6 +14,10 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
+masters:
+  icon: fas fa-user-book
+  text: Masters Student
+
 programmer:
   icon: fas fa-code
   text: Programmer
