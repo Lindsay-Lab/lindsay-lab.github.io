@@ -21,6 +21,8 @@ The course has been redesigned to focus more on research papers. Materials will 
 
 [Lecture 3 - Paper 2 + Ocean Impacts + CNNs + Segmentation](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%203%20-%20Paper%202%20%2B%20Ocean%20Impacts%20%2B%20CNN_Segmentation.pdf)
 
+[Lecture 4 - Paper 3 + Climate Models + GANs and Self-Supervision](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%204%20-%20Paper%203%20%2B%20Climate%20Models%20%2B%20GANs%20and%20Self-Supervision.pdf)
+
 
 ## Machine Learning for Climate Change (Spring 2023)
 [Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-3.pdf).
