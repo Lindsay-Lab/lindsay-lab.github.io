@@ -23,6 +23,7 @@ The course has been redesigned to focus more on research papers. Materials will 
 
 [Lecture 4 - Paper 3 + Climate Models + GANs and Self-Supervision](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%204%20-%20Paper%203%20%2B%20Climate%20Models%20%2B%20GANs%20and%20Self-Supervision.pdf)
 
+[Lecture 5 - Paper 4 + Agriculture + Time Series + Transfer Learning](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%205%20-%20Paper%204%20%2B%20Agriculture%20%2B%20Time%20Series%20%2B%20Transfer%20Learning.pdf)
 
 ## Machine Learning for Climate Change (Spring 2023)
 [Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-3.pdf).
