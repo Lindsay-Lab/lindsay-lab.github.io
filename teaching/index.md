@@ -27,6 +27,8 @@ The course has been redesigned to focus more on research papers. Materials will 
 
 [Lecture 6 - Paper 5 + Human Psychology + NLP + Transformer](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%206%20-%20Paper%205%20%2B%20Human%20Psychology%20%2B%20NLP%20%2B%20Transformer.pdf)
 
+[Lecture 7 - Paper 6 + Careers + Projects + Exam Prep](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%207%20-%20Paper%206%20%2B%20Careers%20%2B%20Projects%20%2B%20Exam%20Prep-1.pdf)
+
 ## Machine Learning for Climate Change (Spring 2023)
 [Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-3.pdf).
 [Course Overview/Introduction to Climate Science](https://lindsay-lab.github.io/ClimateML_Lectures/Intro_Climate%20Science.pdf) | 
