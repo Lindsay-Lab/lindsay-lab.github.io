@@ -15,7 +15,7 @@ The course has been redesigned to focus more on research papers. Materials will 
 
 [Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus%20Spring%2024-2.pdf)
 
-[Lecture 1 - Intro - Climate Change - Building Energy Use - Regression](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%201%20-%20Intro%20%2B%20Energy%20%2B%20Regression.pdf)
+[Lecture 1 - Intro + Climate Change + Building Energy Use + Regression](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%201%20-%20Intro%20%2B%20Energy%20%2B%20Regression.pdf)
 
 [Lecture 2 - Paper 1 + Extreme Weather/Disaster + Comp Vision + ANNs](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%202%20-%20Paper%201%20%2B%20Extreme%20Weather%20%2B%20Comp%20Vision.pdf)
 
@@ -28,6 +28,8 @@ The course has been redesigned to focus more on research papers. Materials will 
 [Lecture 6 - Paper 5 + Human Psychology + NLP + Transformer](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%206%20-%20Paper%205%20%2B%20Human%20Psychology%20%2B%20NLP%20%2B%20Transformer.pdf)
 
 [Lecture 7 - Paper 6 + Careers + Projects + Exam Prep](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%207%20-%20Paper%206%20%2B%20Careers%20%2B%20Projects%20%2B%20Exam%20Prep-1.pdf)
+
+[Lecture 8 - Climate Finance + Recommender Systems + Genetic Algorithms](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%208%20.pdf)
 
 ## Machine Learning for Climate Change (Spring 2023)
 [Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-3.pdf).
