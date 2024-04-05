@@ -31,7 +31,9 @@ The course has been redesigned to focus more on research papers. Materials will 
 
 [Lecture 8 - Climate Finance + Recommender Systems + Genetic Algorithms](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%208%20.pdf)
 
-[Lecture 9 - Paper 7 + Transportation + Reinforcement Learning](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%209%20.pdf)
+[Lecture 9 - Paper 7 + Transportation + Reinforcement Learning](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%209.pdf)
+
+[Lecture 10 - Paper 8 + Power Grid + Graph Neural Networks](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%2010%20-%20Paper%208%20%2B%20Power%20Grid%20%2B%20Graph%20Neural%20Networks.pdf)
 
 ## Machine Learning for Climate Change (Spring 2023)
 [Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-3.pdf).
