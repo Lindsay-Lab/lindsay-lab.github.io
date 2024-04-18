@@ -37,6 +37,8 @@ The course has been redesigned to focus more on research papers. Materials will 
 
 [Lecture 11 - Paper 9 + Carbon Dioxide Removal + Review + Multi-task Learning](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%2011%20-%20Paper%209%20%2B%20Carbon%20Dioxide%20Removal%20%2B%20Review%20%2B%20Multi-task%20Learning.pdf)
 
+[Lecture 12 - Paper 10 + Exam 2 Prep](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%2012%20-%20Paper%2010%20%2B%20Exam%202%20Prep.pdf)
+
 ## Machine Learning for Climate Change (Spring 2023)
 [Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Syllabus-3.pdf).
 [Course Overview/Introduction to Climate Science](https://lindsay-lab.github.io/ClimateML_Lectures/Intro_Climate%20Science.pdf) | 
