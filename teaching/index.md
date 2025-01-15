@@ -11,7 +11,7 @@ I usually teach Data Literacy for Psychology (PSYCH-UA 8) in the Fall and Machin
 
 # Course Materials
 ## Machine Learning for Climate Change (Spring 2025)
-[Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Change%20Syllabus%20Spring%2025.pdf).
+[Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Change%20Syllabus%20Spring%2025-1.pdf).
 
 
 
