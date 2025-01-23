@@ -13,7 +13,7 @@ I usually teach Data Literacy for Psychology (PSYCH-UA 8) in the Fall and Machin
 ## Machine Learning for Climate Change (Spring 2025)
 [Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Change%20Syllabus%20Spring%2025-1.pdf).
 
-
+[Lecture 1 - Background and Energy + Regression](https://Lindsay-Lab/lindsay-lab.github.io/ClimateML_Lectures/Lecture%201%20-%20Intro%20%2B%20Energy%20%2B%20Regression%202025.pdf)
 
 ## Machine Learning for Climate Change (Spring 2024)
 As of this semester, the course was redesigned to focus more on research papers. Because the course is currently ongoing, the Spring 2024 materials have been taken down and will be posted under the new semester as the course progresses. If you are an instructor interested in using the course materials for your own purposes, please just email me at grace.lindsay@nyu.edu and I will give you access to the materials.  
