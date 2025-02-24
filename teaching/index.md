@@ -21,6 +21,8 @@ I usually teach Data Literacy for Psychology (PSYCH-UA 8) in the Fall and Machin
 
 [Lecture 4 - Paper 3 + Climate Models + GANs and Self-Supervision](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%204%20-%20Paper%203%20%2B%20Climate%20Models%20%2B%20GANs%20and%20Self-Supervision2025.pdf)
 
+[Lecture 5 - Paper 4 + Agriculture + Time Series + Transfer Learning](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%205%20-%20Paper%204%20%2B%20Agriculture%20%2B%20Time%20Series%20%2B%20Transfer%20Learning2025.pdf)
+
 ## Machine Learning for Climate Change (Spring 2024)
 As of this semester, the course was redesigned to focus more on research papers. Because the course is currently ongoing, the Spring 2024 materials have been taken down and will be posted under the new semester as the course progresses. If you are an instructor interested in using the course materials for your own purposes, please just email me at grace.lindsay@nyu.edu and I will give you access to the materials.  
 
