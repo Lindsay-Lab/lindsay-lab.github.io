@@ -27,7 +27,7 @@ I usually teach Data Literacy for Psychology (PSYCH-UA 8) in the Fall and Machin
 
 [Lecture 7 - Human Psychology + NLP + Transformer](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%207%20-%20Psychology%20%2B%20NLP%20%2B%20Transformers.pdf)
 
-[Lecture 8 - Climate Finance + Recommender Systems + Genetic Algorithms](https://github.com/Lindsay-Lab/lindsay-lab.github.io/blob/7360bde0825410a24c92812f698cf1e23a80c6bd/ClimateML_Lectures/Lecture%208%20-%20Paper%206%20%2B%20Climate%20Finance%20%2B%20Recommenders%20%2B%20GA2025.pdf)
+[Lecture 8 - Climate Finance + Recommender Systems + Genetic Algorithms](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture%208%20-%20Paper%206%20%2B%20Climate%20Finance%20%2B%20Recommenders%20%2B%20GA2025.pdf)
 
 ## Machine Learning for Climate Change (Spring 2024)
 As of this semester, the course was redesigned to focus more on research papers. Because the course is currently ongoing, the Spring 2024 materials have been taken down and will be posted under the new semester as the course progresses. If you are an instructor interested in using the course materials for your own purposes, please just email me at grace.lindsay@nyu.edu and I will give you access to the materials.  
