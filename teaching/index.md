@@ -33,6 +33,8 @@ I usually teach Data Literacy for Psychology (PSYCH-UA 8) in the Fall and Machin
 
 [Lecture 10 - Paper 8 + Power Grid + Graph Neural Networks](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture10Paper8PowerGridGraphNeuralNetworks.pdf)
 
+[Lecture 11 - Paper 9 + Power Grid + Graph Neural Networks](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture11Paper9CarbonDioxideRemovalReviewMultitaskLearning.pdf)
+
 ## Machine Learning for Climate Change (Spring 2024)
 As of this semester, the course was redesigned to focus more on research papers. Because the course is currently ongoing, the Spring 2024 materials have been taken down and will be posted under the new semester as the course progresses. If you are an instructor interested in using the course materials for your own purposes, please just email me at grace.lindsay@nyu.edu and I will give you access to the materials.  
 
