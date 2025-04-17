@@ -35,6 +35,8 @@ I usually teach Data Literacy for Psychology (PSYCH-UA 8) in the Fall and Machin
 
 [Lecture 11 - Paper 9 + Carbon Dioxide Removal + Multi-task Learning](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture11Paper9CarbonDioxideRemovalReviewMultitaskLearning.pdf)
 
+[Lecture 12 - Paper 10 + Project Check-in/Exam 2 Prep](https://lindsay-lab.github.io/ClimateML_Lectures/Lecture12Paper10Exam2Prep.pdf)
+
 ## Machine Learning for Climate Change (Spring 2024)
 As of this semester, the course was redesigned to focus more on research papers. Because the course is currently ongoing, the Spring 2024 materials have been taken down and will be posted under the new semester as the course progresses. If you are an instructor interested in using the course materials for your own purposes, please just email me at grace.lindsay@nyu.edu and I will give you access to the materials.  
 
