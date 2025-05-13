@@ -15,19 +15,6 @@ nav:
   text="The Lindsay Lab started in Fall of 2022. See current and past lab members below. If you are interested in joining as a PhD student, please apply to either the [Center for Data Science PhD program](https://cds.nyu.edu/phd-admissions-req/) or the [Cognition and Perception PhD program in Psychology](https://as.nyu.edu/psychology/graduate/phd-cognition-perception.html). Potential postdocs or NYU Masters students interested in doing work in the lab can reach out to Grace directly. The lab is not accepting undergraduates or research assistants at this time." 
 %}
 
-{%
-  include figure.html
-  image="images/neurolab_edit.jpg"
-  caption="Neuroscience side of the lab, 2025"
-  width="400px"
-%}
-
-{%
-  include figure.html
-  image="images/climatelab_edit.jpg"
-  caption="Climate Change side of the lab, 2025"
-  width="400px"
-%}
 
 {% include section.html %}
 
@@ -64,5 +51,18 @@ nav:
   component="portrait"
   filters="role: alumni"
 %}
+
 {:.center}
+
+{%
+  include figure.html
+  image="images/neurolab_edit.jpg"
+  caption="Neuroscience side of the lab, 2025"
+  width="400px"
+%} {%
+  include figure.html
+  image="images/climatelab_edit.jpg"
+  caption="Climate Change side of the lab, 2025"
+  width="400px"
+%}
 
