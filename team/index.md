@@ -57,12 +57,12 @@ nav:
 {%
   include figure.html
   image="images/neurolab_edit.jpg"
-  caption="Neuroscience side of the lab, 2025"
+  caption="Neuroscience half of the lab, 2025"
   width="400px"
 %} {%
   include figure.html
   image="images/climatelab_edit.jpg"
-  caption="Climate Change side of the lab, 2025"
+  caption="Climate Change half of the lab, 2025"
   width="400px"
 %}
 
