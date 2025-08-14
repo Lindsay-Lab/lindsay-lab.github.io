@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-tools"></i>Teaching
 
-I usually teach Data Literacy for Psychology (PSYCH-UA 8) in the Fall and Machine Learning for Climate Change (DS-UA 301) in the Spring. As of Spring 2025, I also teach (with Marcelo Mattar) a graduate course on neural network models of the mind and brain. 
+I usually teach Data Literacy for Psychology (PSYCH-UA 8) in the Fall and Machine Learning for Climate Change (DS-UA 301) in the Spring. In Spring 2025, I also taught (with Marcelo Mattar) a graduate course on neural network models of the mind and brain. For videos covering academic papers that apply AI to climate change and ecology, check out my YouTube channel [5 minute papers on AI for the Planet](https://www.youtube.com/@AIforthePlanet)
 
 # Course Materials
 ## Machine Learning for Climate Change (Spring 2025)
