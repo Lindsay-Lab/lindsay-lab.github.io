@@ -2,7 +2,7 @@
 name: Kartik Jindgar
 image: images/kartik.jpg
 description: Masters Student (Data Science)
-role: masters
+role: alumni
 links:
   email: kartik.jindgar@nyu.edu
 ---
