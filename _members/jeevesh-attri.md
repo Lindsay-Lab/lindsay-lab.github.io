@@ -1,6 +1,6 @@
 ---
 name: Jeevesh Attri
-image: images/jeevesh.jpeg
+image: images/jeevesh.jpg
 description: Masters Student (Data Science)
 role: masters
 links:
