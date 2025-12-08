@@ -1,9 +1,11 @@
+---
 title: Postdoc Position
 author: Grace Lindsay
 member: grace-lindsay
 ---
 
 **Position**: Postdoc in the Lindsay Lab at the Center for Data Science at New York University
+
 **Duration**: 2 years
 
 The Lindsay Lab is hiring a postdoc for a project on “attention” in large Vision-Language Models. Here, attention refers to the ability to flexibly guide sensory processing (not the specific Transformer mechanism). [See more here](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2020.00029/full). The broad goal of this project is to study attentional capacities and limitations in VLMs using methods and concepts from neuroscience and psychology. Outcomes of this work will include: identification of strengths and weaknesses in VLMs, comparisons between human and VLM attention, and a potential re-evaluation of how attention is characterized and studied in these fields.
