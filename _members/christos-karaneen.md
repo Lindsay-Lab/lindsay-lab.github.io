@@ -1,6 +1,6 @@
 ---
 name: Christos Karaneen
-image: images/christos.jpeg
+image: images/christos.jpg
 description: PhD Student (Psychology)
 role: phd
 links:
