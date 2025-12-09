@@ -5,13 +5,14 @@ nav:
   tooltip: Code and resources
 ---
 
-## Code
+# Code
 Our code&mdash;including the code for this website&mdash;is hosted on our [lab Github](https://github.com/Lindsay-Lab).
+
 DynVision, our toolbox for building dynamically realistic recurrent convolutional neural networks, is [here](https://github.com/Lindsay-Lab/DynVision/). 
 
-## Learning Resources
+# Learning Resources
 
-# CompNeuro and NeuroAI
+## CompNeuro and NeuroAI
 
 [Neuromatch Academy](https://neuromatch.io/open-education-resources/) runs live virtual courses over the summer (which includes a research component) and also has their course materials (videos and code) free online for anyone to work through. It also has some introductory Python tutorials.
 
@@ -21,11 +22,13 @@ DynVision, our toolbox for building dynamically realistic recurrent convolutiona
 
 [VVTNS](https://www.youtube.com/@theoreticalneuroscience6062) is a weekly digital seminar on Zoom targeting the theoretical neuroscience community. They host talks by professors on YouTube. 
 
-# Climate Change + AI
+## Climate Change + AI
 
 [5 Minute Papers on AI for the Planet](https://www.youtube.com/@AIforthePlanet) is Grace's YouTube channel covering academic papers that apply machine learning to problems related to climate, ecology, etc.
 
-[Climate Change AI](https://www.climatechange.ai/) is an organization that hosts workshops and resources on using AI towards Climate Change problems. 
+[Climate Change AI](https://www.climatechange.ai/) is an organization that hosts workshops and resources on using AI towards Climate Change problems.
+
+[The Climate Code](https://the-climate-code.beehiiv.com/) is a newsletter and collection of documents and resources about AI + Environment. 
 
 Neuromatch has a course on [computational climate science](https://neuromatch.io/computational-tools-for-climate-science-course/). 
 
@@ -33,7 +36,7 @@ Neuromatch has a course on [computational climate science](https://neuromatch.io
 
 
 
-## Other Resources
+# Other Resources
 
 Website art was created using [Craiyon](https://www.craiyon.com/).
 
