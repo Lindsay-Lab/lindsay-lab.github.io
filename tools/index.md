@@ -16,7 +16,7 @@ DynVision, our toolbox for building dynamically realistic recurrent convolutiona
 
 [Neuromatch Academy](https://neuromatch.io/open-education-resources/) runs live virtual courses over the summer (which includes a research component) and also has their course materials (videos and code) free online for anyone to work through. It also has some introductory Python tutorials.
 
-[Models of the Mind: How Physics, Engineering, and Mathematics Shaped Our Understanding of the Brain](https://bookshop.org/p/books/models-of-the-mind-how-physics-engineering-and-mathematics-have-shaped-our-understanding-of-the-brain-grace-lindsay/14108b00c91f38b3?ean=9781472966438&next=t&) is a popular science book by Grace that covers how and why math and modeling are used to study the brain. You can probably find it in a library.
+[Models of the Mind: How Physics, Engineering, and Mathematics Have Shaped Our Understanding of the Brain](https://bookshop.org/p/books/models-of-the-mind-how-physics-engineering-and-mathematics-have-shaped-our-understanding-of-the-brain-grace-lindsay/14108b00c91f38b3?ean=9781472966438&next=t&) is a popular science book by Grace that covers how and why math and modeling are used to study the brain. You can probably find it in a library.
 
 [Brain-Inspired](https://braininspired.co/) is a podcast where Paul Middlebrooks interviews a lot of professors and researchers about their work on NeuroAI and computational neuroscience. 
 
