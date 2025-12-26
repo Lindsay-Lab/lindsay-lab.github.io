@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Lab Members
 nav:
   order: 1
   tooltip: About the lab
@@ -57,12 +57,16 @@ The Lindsay Lab started in Fall of 2022. See current and past lab members below.
 
 {:.center}
 
+
+<table>
+<tr>
+<td><img src="images/neurolab_edit.jpg" alt="Lab gathering" width="400"/></td>
+<td><img src="images/labJC.jpg" alt="Journal Club" width="400"/></td>
+</tr>
+</table>
+
+
 {%
-  include figure.html
-  image="images/neurolab_edit.jpg"
-  caption="Neuroscience half of the lab, 2025"
-  width="400px"
-%} {%
   include figure.html
   image="images/climatelab_edit.jpg"
   caption="Climate Change half of the lab, 2025"
