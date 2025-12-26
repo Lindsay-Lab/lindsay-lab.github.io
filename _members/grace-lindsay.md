@@ -1,6 +1,6 @@
 ---
 name: Grace W. Lindsay
-image: images/headshot1_crop.jpg
+image: images/headshot3.jpg
 description: P.I.
 role: pi
 links:
