@@ -61,7 +61,7 @@ The Lindsay Lab started in Fall of 2022. See current and past lab members below.
 <table>
 <tr>
 <td><img src="https://raw.githubusercontent.com/Lindsay-Lab/lindsay-lab.github.io/refs/heads/main/images/neurolab_edit.jpg" alt="Lab gathering" width="400"/></td>
-<td><img src="https://raw.githubusercontent.com/Lindsay-Lab/lindsay-lab.github.io/refs/heads/main/images/labJC.jpg" alt="Journal Club" width="400"/></td>
+<td><img src="https://raw.githubusercontent.com/Lindsay-Lab/lindsay-lab.github.io/refs/heads/main/images/labJC_crop.jpg" alt="Journal Club" width="400"/></td>
 </tr>
 <tr>
 <td colspan="2" align="center">Neuroscience half of the lab, 2025</td>
