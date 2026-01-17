@@ -11,10 +11,9 @@ I usually teach Data Literacy for Psychology (PSYCH-UA 8) in the Fall and Machin
 
 # Course Materials
 ## Machine Learning for Climate Change (Spring 2026)
-The course is ongoing. Materials will be posted here weekly. Any instructors interested in using materials for their own course, please contact Grace directly to access all lectures and readings. 
+In this course, students read academic papers applying machine learning to climate change problems and engage in course discussions on them. Lectures prepare students for these readings by introducing aspects of mitigation and adaptation to climate change as well as covering machine learning topics. Any instructors interested in using materials for their own course, please contact Grace directly to access all lectures and readings. 
 
-[2025 Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Change%20Syllabus%20Spring%2025-1.pdf) - The 2026 syllabus will be posted soon.
-
+[2026 Syllabus](https://lindsay-lab.github.io/ClimateML_Lectures/ML%20for%20Climate%20Change%20Syllabus%20Spring%2026.pdf) 
 
 
 ## Machine Learning for Climate Change (Spring 2023 - old class format)
