@@ -38,6 +38,8 @@ Neuromatch has a course on [computational climate science](https://neuromatch.io
 
 ["So you're an academic who wants to help with the climate crisis?"](https://gracewlindsay.com/2023/08/04/so-youre-an-academic-who-wants-to-help-with-the-climate-crisis/) - A blog post with general advice and resources by Grace 
 
+[Slides on Career Paths for Climate](https://lindsay-lab.github.io/ClimateML_Lectures/climatecareer.pdf) - used in Grace's Machine Learning for Climate Course
+
 
 
 # Other Resources
