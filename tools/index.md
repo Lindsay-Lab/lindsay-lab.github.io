@@ -22,6 +22,8 @@ DynVision, our toolbox for building dynamically realistic recurrent convolutiona
 
 [VVTNS](https://www.youtube.com/@theoreticalneuroscience6062) is a weekly digital seminar on Zoom targeting the theoretical neuroscience community. They host talks by professors on YouTube. 
 
+[Cosyne YouTube](https://www.youtube.com/@cosynetalks) hosts talks from the Computational and Systems neuroscience conference. 
+
 [NeuroAI papers](https://github.com/CYHSM/awesome-neuro-ai-papers) is a list of NeuroAI research papers and reviews.
 
 [The Transmitter](https://www.thetransmitter.org/) is a publication by and for neuroscientists. While not focused specifically on computational approaches, it frequently includes articles about them. 
