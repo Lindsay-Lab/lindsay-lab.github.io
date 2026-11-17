@@ -1,6 +1,6 @@
 ---
 name: Ishani Ganguly
-image: images/ishani.jpg
+image: images/ishani.jpeg
 description: Postdoc
 role: postdoc
 links:
