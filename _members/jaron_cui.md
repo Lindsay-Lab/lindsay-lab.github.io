@@ -1,7 +1,7 @@
 ---
 name: Jaron Cui
 image: images/jaron.jpg
-description: Lab RA
+description: Research Assistant
 role: masters
 links:
   email: jaron.cui@gmail.com
