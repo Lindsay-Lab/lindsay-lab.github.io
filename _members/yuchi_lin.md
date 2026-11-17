@@ -1,5 +1,5 @@
 ---
-name: Yuchi Lin
+name: Yu-chi Lin
 image: images/yuchi.jpg
 description: Masters Student (Data Science)
 role: masters
